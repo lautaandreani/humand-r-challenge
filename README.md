@@ -1,6 +1,7 @@
 # Run project
 
 ```
+npm i // Install dependencies
 npm run start // dev server
 npm run build // build for production
 ```
